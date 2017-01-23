@@ -1,0 +1,19 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Tictactoe the game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdearden/tictactoe.git"
+  },
+  "author": "Craig Dearden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdearden/tictactoe/issues"
+  },
+  "homepage": "https://github.com/cdearden/tictactoe#readme"
+}
